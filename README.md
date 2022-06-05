@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eHag-FRU
 - 👀 I’m interested in computers, programming, Computer Science, Software Enginerring
-- 🌱 I’m currently finishing the spring semester, last semester for my associates in computer science. Then onto Iowa State University for a bacholers in             software enigineering
+- 🌱 Currently planning and gathering supplies needed to attend Kent State University in Kent, Ohio for a B.S. in Computer Science with a possible monior in Software Development
 - 💞️ I’m looking to collaborate on nothing much at the moment. Just uploading my e-portfolios and small projects for high school honors
 - 📫 How to reach me 
     Linkedin: https://www.linkedin.com/in/elliott-hager-10b4a518b/
