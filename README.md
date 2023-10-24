@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eHag-FRU
 - 👀 I’m interested in computers, programming, Computer Science, Software Enginerring
-- 🌱 Currently planning and gathering supplies needed to attend Kent State University in Kent, Ohio for a B.S. in Computer Science with a possible minor in Software Development or Web Programming
+- 🌱 Currently attending Kent State University in Kent, Ohio for a B.S. in Computer Science with a possible minor Cybersecurity Foundations or Mathmatics
 - 💞️ I’m looking to collaborate on nothing much at the moment, if wanting to collabrate don't hesitate to reach out to me on LinkedIn.
 - 📫 How to reach me 
     Linkedin: https://www.linkedin.com/in/elliott-hager-10b4a518b/
